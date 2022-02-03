@@ -33,3 +33,32 @@ a:hover{
 .contact{
     background-color: green;
 }
+.contain{
+    overflow: hidden;
+}
+.container1{
+    float: left;
+    width: 70%;
+    background-color: white ;
+    font-size: 15px;
+    padding: 50px;
+    padding-top: 0;
+    margin-bottom: 0;
+}
+.container2{
+    float: right;
+    width: 20%;
+    padding: 5px;
+    padding-top: 0;
+    background-color: rgb(190, 190, 190);
+}
+h3{
+     color: rgb(13, 113, 153);
+ }
+.head1{
+    color: rgb(13, 113, 153);
+    margin-bottom: 0px;
+ }
+.contain{
+     overflow: hidden;
+ }
