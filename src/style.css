@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(190, 190, 190);
+}
+header{
+    padding-left: 15px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow: hidden;
+    background-color: black;
+    
+}
+li{
+    margin: 0;
+    padding: 0;
+    float: left;
+    border: 1px solid white;
+}
+li a{
+    display: block;
+    color: white;
+    padding: 4px 6px;
+    text-decoration: none;
+    color: white;
+    text-align: center;  
+}
+a:hover{
+    background-color: green;
+}
+.contact{
+    background-color: green;
+}
