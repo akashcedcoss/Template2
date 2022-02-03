@@ -51,6 +51,7 @@ a:hover{
     float: right;
     width: 20%;
     padding: 5px;
+    margin-left: 5px;
     padding-top: 0;
     background-color: rgb(190, 190, 190);
 }
@@ -66,7 +67,7 @@ h3{
      overflow: hidden;
  }
  footer{
-    position: fixed;
+    /* position: absolute; */
     width: 99%;
     font-size: 15px;
     left: 0px; 
