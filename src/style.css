@@ -35,6 +35,8 @@ a:hover{
 }
 .contain{
     overflow: hidden;
+    display: flex;
+    flex-direction: row;
 }
 .container1{
     float: left;
