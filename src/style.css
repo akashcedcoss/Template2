@@ -54,6 +54,7 @@ a:hover{
 }
 h3{
      color: rgb(13, 113, 153);
+     margin-bottom: 1px;
  }
 .head1{
     color: rgb(13, 113, 153);
@@ -72,4 +73,7 @@ h3{
     text-align: right;
     padding: 1%; 
     padding-right: 2px;
+}
+p{
+    margin-top: 1px;
 }
